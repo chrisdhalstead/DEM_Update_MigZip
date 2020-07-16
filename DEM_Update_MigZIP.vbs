@@ -1,9 +1,10 @@
 '#########################################################################################
-'# Script to copy extra data from Persona Management to the Local Documents Directory
-'#  Josh Spencer / Chris Halstead - VMware
+'# This script is intended for use when migrating from View Composer Persistent Disks to FSLogix Profile Containers. 
+'# As part of a broader migration scenario, DEM migration.zip files are automatically enumerated, unzipped, edited, and zipped.
+'# Josh Spencer - VMware
 '# There is NO support for this script - it is provided as is
 '# 
-'# Version 2.0 - July 15, 2020
+'# Version 1.0 - July 16, 2020
 '##########################################################################################
 
 Option Explicit
